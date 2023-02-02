@@ -10,10 +10,10 @@ const App = () => {
     { id: 1, name: 'Apple', price: 0.5, category: 'Fruit', imgUrl: 'https://purepng.com/public/uploads/large/purepng.com-fresh-applefoodsweettastyhealthyfruitappleleaf-981524677946vfurf.png', emoji: '🍎' },
     { id: 2, name: 'Banana', price: 0.25, category: 'Fruit', imgUrl: 'https://static.vecteezy.com/system/resources/previews/008/848/350/original/fresh-yellow-banana-fruit-free-png.png', emoji: '🍌' },
     { id: 3, name: 'Carrot', price: 0.75, category: 'Vegetable', imgUrl: 'https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png', emoji: '🥕' },
-    { id: 4, name: 'Donut', price: 1.5, category: 'Bakery', imgUrl: 'https://ltdfoto.ru/images/2023/02/02/584fcc806a5ae41a83ddee8c.png', emoji: '🍩' },
+    { id: 4, name: 'Donut', price: 1.5, category: 'Bakery', imgUrl: 'https://i.ibb.co/WKngQNv/584fcc806a5ae41a83ddee8c.png', emoji: '🍩' },
     { id: 5, name: 'Egg', price: 0.3, category: 'Dairy', imgUrl: 'https://pngimg.com/uploads/egg/egg_PNG97943.png', emoji: '🥚' },
     { id: 6, name: 'Grapes', price: 0.4, category: 'Fruit', imgUrl: 'https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png', emoji: '🍇' },
-    { id: 7, name: 'Tomato', price: 0.6, category: 'Vegetable', imgUrl: 'https://ltdfoto.ru/images/2023/02/02/pngimg.com---tomato_PNG12590.png', emoji: '🍅' },
+    { id: 7, name: 'Tomato', price: 0.6, category: 'Vegetable', imgUrl: 'https://i.ibb.co/2g3QJP7/pngimg-com-tomato-PNG12590.png', emoji: '🍅' },
     { id: 8, name: 'Cake', price: 2.0, category: 'Bakery', imgUrl: 'https://pngimg.com/uploads/cake/cake_PNG13097.png', emoji: '🧁' },
     { id: 9, name: 'Cheese', price: 6.0, category: 'Dairy', imgUrl: 'https://i.pinimg.com/originals/b3/77/8e/b3778ed590bc573ecd266d6b7d92d658.png', emoji: '🧀' },
     { id: 10, name: 'Watermelon', price: 1.5, category: 'Fruit', imgUrl: 'https://i.postimg.cc/PJT1CDdh/pngegg.png', emoji: '🍉' }
